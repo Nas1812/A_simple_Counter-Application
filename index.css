@@ -1,0 +1,35 @@
+body{
+    
+    background-color: aqua;
+    text-align: center;
+    max-height: auto;
+    
+
+}
+
+
+
+button{
+    border: name;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(61, 20, 209);
+    color:rgb(228, 226, 236);
+    font-weight: bold;
+    width: flex;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+
+}
+
+#count-el{
+    font-size: 100px;
+    position: center;
+    
+    color:rgb(137, 228, 0);
+}
+
+#save-el{
+    text-align: center;
+}
